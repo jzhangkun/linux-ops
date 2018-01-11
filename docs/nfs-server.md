@@ -32,6 +32,10 @@ for export "192.168.100.10:/home/test".
 [root@www ~]# chkconfig nfslock on
 ```
 
+# Problem Met
+## readonly file system?
+/etc/exports hold the control
+
 # refs
 http://cn.linux.vbird.org/linux_server/0330nfs.php
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/deployment_guide/s1-nfs-server-config-exports
